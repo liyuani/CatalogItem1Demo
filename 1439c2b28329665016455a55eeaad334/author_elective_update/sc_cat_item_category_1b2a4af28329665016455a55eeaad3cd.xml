@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Request a new computer">bdb98eb28329665016455a55eeaad35c</sc_cat_item>
+        <sc_category display_value="Laptops">59f586f23731300054b6a3549dbe5db7</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-20 09:31:10</sys_created_on>
+        <sys_id>1b2a4af28329665016455a55eeaad3cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Laptops.Request a new computer</sys_name>
+        <sys_package display_value="CatalogItem1Demo" source="x_1758036_catalo_0">1439c2b28329665016455a55eeaad334</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CatalogItem1Demo">1439c2b28329665016455a55eeaad334</sys_scope>
+        <sys_update_name>sc_cat_item_category_1b2a4af28329665016455a55eeaad3cd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-20 09:31:10</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CatalogItem1Demo">1439c2b28329665016455a55eeaad334</application>
+        <file_path/>
+        <instance_id>7420b230db16bd9802022a591396199e</instance_id>
+        <instance_name>dev200623</instance_name>
+        <name>sc_cat_item_category_1b2a4af28329665016455a55eeaad3cd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Request a new computer">bdb98eb28329665016455a55eeaad35c</sc_cat_item><sc_category display_value="Laptops">59f586f23731300054b6a3549dbe5db7</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-20 09:31:10</sys_created_on><sys_id>1b2a4af28329665016455a55eeaad3cd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Laptops.Request a new computer</sys_name><sys_package display_value="CatalogItem1Demo" source="x_1758036_catalo_0">1439c2b28329665016455a55eeaad334</sys_package><sys_policy/><sys_scope display_value="CatalogItem1Demo">1439c2b28329665016455a55eeaad334</sys_scope><sys_update_name>sc_cat_item_category_1b2a4af28329665016455a55eeaad3cd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-20 09:31:10</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>1937541212</payload_hash>
+        <record_name>Laptops.Request a new computer</record_name>
+        <reverted_from/>
+        <source>9439c2b28329665016455a55eeaad338</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-20 09:31:10</sys_created_on>
+        <sys_id>db2a4af28329665016455a55eeaad3d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196ed085ca90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-20 09:31:10</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>1f2a4af225296650394d6182673362d0</update_guid>
+        <update_guid_history>1f2a4af225296650394d6182673362d0:1937541212</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Laptops.Request a new computer">4f3acaf28329665016455a55eeaad323</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-20 09:31:25</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>2de22a32859b42688cb039a3972a6840</sys_id>
+        <sys_metadata>1b2a4af28329665016455a55eeaad3cd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Laptops.Request a new computer</sys_name>
+        <sys_package display_value="CatalogItem1Demo" source="x_1758036_catalo_0">1439c2b28329665016455a55eeaad334</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CatalogItem1Demo">1439c2b28329665016455a55eeaad334</sys_scope>
+        <sys_scope_delete display_value="">9c0e93995c8d4b5abe775f39e43e2624</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_1b2a4af28329665016455a55eeaad3cd</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_1b2a4af28329665016455a55eeaad3cd">db2a4af28329665016455a55eeaad3d1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-20 09:31:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

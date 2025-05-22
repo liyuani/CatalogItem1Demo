@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Request a new computer">bdb98eb28329665016455a55eeaad35c</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-20 09:29:57</sys_created_on>
+        <sys_id>61e9c2f28329665016455a55eeaad385</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Request a new computer</sys_name>
+        <sys_package display_value="CatalogItem1Demo" source="x_1758036_catalo_0">1439c2b28329665016455a55eeaad334</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CatalogItem1Demo">1439c2b28329665016455a55eeaad334</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_61e9c2f28329665016455a55eeaad385</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-20 09:29:57</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CatalogItem1Demo">1439c2b28329665016455a55eeaad334</application>
+        <file_path/>
+        <instance_id>7420b230db16bd9802022a591396199e</instance_id>
+        <instance_name>dev200623</instance_name>
+        <name>sc_cat_item_catalog_61e9c2f28329665016455a55eeaad385</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Request a new computer">bdb98eb28329665016455a55eeaad35c</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-20 09:29:57</sys_created_on><sys_id>61e9c2f28329665016455a55eeaad385</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Request a new computer</sys_name><sys_package display_value="CatalogItem1Demo" source="x_1758036_catalo_0">1439c2b28329665016455a55eeaad334</sys_package><sys_policy/><sys_scope display_value="CatalogItem1Demo">1439c2b28329665016455a55eeaad334</sys_scope><sys_update_name>sc_cat_item_catalog_61e9c2f28329665016455a55eeaad385</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-20 09:29:57</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1714791036</payload_hash>
+        <record_name>Service Catalog.Request a new computer</record_name>
+        <reverted_from/>
+        <source>9439c2b28329665016455a55eeaad338</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-20 09:29:57</sys_created_on>
+        <sys_id>39e9c2f28329665016455a55eeaad389</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196ed0741450000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-20 09:29:57</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>39e9c2f2ac296650cba6267d3ccf6288</update_guid>
+        <update_guid_history>39e9c2f2ac296650cba6267d3ccf6288:-1714791036</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Request a new computer">b5e9c2f28329665016455a55eeaad396</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-20 09:29:58</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>2f4887b02ea644d3a369e80f21639999</sys_id>
+        <sys_metadata>61e9c2f28329665016455a55eeaad385</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Request a new computer</sys_name>
+        <sys_package display_value="CatalogItem1Demo" source="x_1758036_catalo_0">1439c2b28329665016455a55eeaad334</sys_package>
+        <sys_parent display_value="Request A New Computer">bdb98eb28329665016455a55eeaad35c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="CatalogItem1Demo">1439c2b28329665016455a55eeaad334</sys_scope>
+        <sys_scope_delete display_value="">9c0e93995c8d4b5abe775f39e43e2624</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_61e9c2f28329665016455a55eeaad385</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_61e9c2f28329665016455a55eeaad385">39e9c2f28329665016455a55eeaad389</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-20 09:29:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

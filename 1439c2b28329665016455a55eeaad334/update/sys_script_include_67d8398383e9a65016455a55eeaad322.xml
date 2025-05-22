@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_1758036_catalo_0.ComputerCountLeft</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <mobile_callable>false</mobile_callable>
+        <name>ComputerCountLeft</name>
+        <sandbox_callable>false</sandbox_callable>
+        <script><![CDATA[var ComputerCountLeft = Class.create();
+ComputerCountLeft.prototype = {
+    initialize: function() {},
+    
+    getCount: function(computerModelRef) {
+        var modelName = this._getModelName(computerModelRef);
+        if (!modelName) return 0;
+        
+        var grAsset = new GlideRecord('alm_asset');
+        grAsset.addQuery('company', '4e52794b83a9a65016455a55eeaad345');
+        grAsset.addQuery('display_name', 'CONTAINS', modelName);
+        grAsset.addQuery('install_status', '6'); // In Stock
+        grAsset.query();
+        
+        return grAsset.getRowCount();
+    },
+    
+    _getModelName: function(sysIdOrName) {
+        // 如果是sys_id格式
+        if (sysIdOrName.match(/^[0-9a-f]{32}$/)) {
+            var grModel = new GlideRecord('cmdb_hardware_product_model');
+            if (grModel.get(sysIdOrName)) {
+                return grModel.getDisplayValue();
+            }
+        }
+        return sysIdOrName; // 直接返回字符串
+    },
+    
+    type: 'ComputerCountLeft'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 03:00:09</sys_created_on>
+        <sys_id>67d8398383e9a65016455a55eeaad322</sys_id>
+        <sys_mod_count>25</sys_mod_count>
+        <sys_name>ComputerCountLeft</sys_name>
+        <sys_package display_value="CatalogItem1Demo" source="x_1758036_catalo_0">1439c2b28329665016455a55eeaad334</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="CatalogItem1Demo">1439c2b28329665016455a55eeaad334</sys_scope>
+        <sys_update_name>sys_script_include_67d8398383e9a65016455a55eeaad322</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 08:31:51</sys_updated_on>
+    </sys_script_include>
+</record_update>

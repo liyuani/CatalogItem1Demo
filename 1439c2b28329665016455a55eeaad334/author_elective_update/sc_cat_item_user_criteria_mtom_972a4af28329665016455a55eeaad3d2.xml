@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Request a new computer">bdb98eb28329665016455a55eeaad35c</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-20 09:31:10</sys_created_on>
+        <sys_id>972a4af28329665016455a55eeaad3d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request a new computer.Any User</sys_name>
+        <sys_package display_value="CatalogItem1Demo" source="x_1758036_catalo_0">1439c2b28329665016455a55eeaad334</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CatalogItem1Demo">1439c2b28329665016455a55eeaad334</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_972a4af28329665016455a55eeaad3d2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-20 09:31:10</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CatalogItem1Demo">1439c2b28329665016455a55eeaad334</application>
+        <file_path/>
+        <instance_id>7420b230db16bd9802022a591396199e</instance_id>
+        <instance_name>dev200623</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_972a4af28329665016455a55eeaad3d2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Request a new computer">bdb98eb28329665016455a55eeaad35c</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-20 09:31:10</sys_created_on><sys_id>972a4af28329665016455a55eeaad3d2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Request a new computer.Any User</sys_name><sys_package display_value="CatalogItem1Demo" source="x_1758036_catalo_0">1439c2b28329665016455a55eeaad334</sys_package><sys_policy/><sys_scope display_value="CatalogItem1Demo">1439c2b28329665016455a55eeaad334</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_972a4af28329665016455a55eeaad3d2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-20 09:31:10</sys_updated_on><user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>720739887</payload_hash>
+        <record_name>Request a new computer.Any User</record_name>
+        <reverted_from/>
+        <source>9439c2b28329665016455a55eeaad338</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-20 09:31:10</sys_created_on>
+        <sys_id>932a4af28329665016455a55eeaad3d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196ed085d040000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-20 09:31:10</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>932a4af28729665096ab6184148d85d6</update_guid>
+        <update_guid_history>932a4af28729665096ab6184148d85d6:720739887</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Request a new computer.Any User">c33acaf28329665016455a55eeaad330</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-20 09:31:26</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>0aaee99bccd340008aa89af3bf440000</sys_id>
+        <sys_metadata>972a4af28329665016455a55eeaad3d2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request a new computer.Any User</sys_name>
+        <sys_package display_value="CatalogItem1Demo" source="x_1758036_catalo_0">1439c2b28329665016455a55eeaad334</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CatalogItem1Demo">1439c2b28329665016455a55eeaad334</sys_scope>
+        <sys_scope_delete display_value="">9c0e93995c8d4b5abe775f39e43e2624</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_972a4af28329665016455a55eeaad3d2</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_972a4af28329665016455a55eeaad3d2">932a4af28329665016455a55eeaad3d7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-20 09:31:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
