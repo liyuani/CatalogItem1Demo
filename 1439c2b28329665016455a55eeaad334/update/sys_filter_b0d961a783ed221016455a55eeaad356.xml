@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_filter">
+    <sys_filter action="INSERT_OR_UPDATE">
+        <filter table="alm_hardware">company=4e52794b83a9a65016455a55eeaad345^EQ<item display_table="core_company" display_value="CatalogItem1" endquery="false" field="company" goto="false" newquery="false" operator="=" or="false" value="4e52794b83a9a65016455a55eeaad345"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <group/>
+        <last_used/>
+        <mobile>false</mobile>
+        <roles/>
+        <sys_class_name>sys_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-22 15:05:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b0d961a783ed221016455a55eeaad356</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CatalogItem1</sys_name>
+        <sys_package display_value="CatalogItem1Demo" source="x_1758036_catalo_0">1439c2b28329665016455a55eeaad334</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CatalogItem1Demo">1439c2b28329665016455a55eeaad334</sys_scope>
+        <sys_update_name>sys_filter_b0d961a783ed221016455a55eeaad356</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-22 15:05:16</sys_updated_on>
+        <table>alm_hardware</table>
+        <title>CatalogItem1</title>
+        <user/>
+    </sys_filter>
+    <sys_translated_text action="delete_multiple" query="documentkey=b0d961a783ed221016455a55eeaad356"/>
+</record_update>
